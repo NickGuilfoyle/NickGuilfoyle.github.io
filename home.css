@@ -1,7 +1,10 @@
 header h1 {
 	font-size:125%;
 	font-family:Arial;
-	text-align:center;
+}
+header img {
+	width: 25%;
+	display:inline-block;
 }
 .contact {
 	display:inline-block;
