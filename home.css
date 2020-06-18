@@ -6,6 +6,7 @@ header img {
 	width: 8%;
 	display:inline-block;
 	float:left;
+	vertical-align: top;
 }
 .contact {
 	display:inline-block;
