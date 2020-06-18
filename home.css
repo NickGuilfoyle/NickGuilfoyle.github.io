@@ -1,6 +1,7 @@
 header h1 {
 	font-size:125%;
 	font-family:Arial;
+	text-align:center;
 }
 .contact {
 	display:inline-block;
