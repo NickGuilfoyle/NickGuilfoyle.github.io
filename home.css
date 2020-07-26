@@ -48,3 +48,10 @@ header img {
 .skills ul{
 	list-style-type:square;
 }
+footer nav{
+	text-decoration: none;
+}
+footer nav a{
+	display:inline-block;
+	width:20%;
+}
