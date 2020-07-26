@@ -1,16 +1,50 @@
+body {
+	background-color:hsl(240, 100%, 90%);
+}
+
+header{
+	height:175px;
+	text-align:right;
+}
+
 header h1 {
 	font-size:125%;
 	font-family:Arial;
+	display:inline-block;
+	position:relative;
+	bottom:-125px;
 }
 header img {
-	width: 8%;
+	height:150px;
 	display:inline-block;
 	float:left;
 	vertical-align: top;
 }
-.contact {
+.contactlist{
+	width:30%;
 	display:inline-block;
-	width:40%;
+	border-right: 2px solid black;
+	border-top: 2px solid black;
+	border-bottom:2px solid black;
 	margin-right:3%;
-	margin-left:3%;
+	vertical-align:top;
+}
+.contact img{
+	width:37%;
+}
+.about{
+	width:50%;
+	display:inline-block;
+}
+.about div{
+	display:inline-block;
+	margin-right: 5%;
+	vertical-align:top;
+}
+.skills {
+	width:45%;
+	display:inline-block;
+}
+.skills ul{
+	list-style-type:square;
 }
