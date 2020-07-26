@@ -1,0 +1,22 @@
+body{
+	background-color:hsl(240, 100%, 90%);
+}
+header h1{
+	text-align:center;
+}
+header {
+	text-align:center;
+}
+.course{
+	display:inline-block;
+	margin-right:5%;
+	width:40%;
+	vertical-align:top;
+	margin-bottom:3%;
+}
+.course ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
